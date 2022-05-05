@@ -1,0 +1,15 @@
+D:\Facultad\CAI\Ejercicio9GuiaCaiCSharp\Ejercicio9Guia\bin\Debug\net6.0\Ejercicio9Guia.exe
+D:\Facultad\CAI\Ejercicio9GuiaCaiCSharp\Ejercicio9Guia\bin\Debug\net6.0\Ejercicio9Guia.deps.json
+D:\Facultad\CAI\Ejercicio9GuiaCaiCSharp\Ejercicio9Guia\bin\Debug\net6.0\Ejercicio9Guia.runtimeconfig.json
+D:\Facultad\CAI\Ejercicio9GuiaCaiCSharp\Ejercicio9Guia\bin\Debug\net6.0\Ejercicio9Guia.dll
+D:\Facultad\CAI\Ejercicio9GuiaCaiCSharp\Ejercicio9Guia\bin\Debug\net6.0\Ejercicio9Guia.pdb
+D:\Facultad\CAI\Ejercicio9GuiaCaiCSharp\Ejercicio9Guia\obj\Debug\net6.0\Ejercicio9Guia.csproj.AssemblyReference.cache
+D:\Facultad\CAI\Ejercicio9GuiaCaiCSharp\Ejercicio9Guia\obj\Debug\net6.0\Ejercicio9Guia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\CAI\Ejercicio9GuiaCaiCSharp\Ejercicio9Guia\obj\Debug\net6.0\Ejercicio9Guia.AssemblyInfoInputs.cache
+D:\Facultad\CAI\Ejercicio9GuiaCaiCSharp\Ejercicio9Guia\obj\Debug\net6.0\Ejercicio9Guia.AssemblyInfo.cs
+D:\Facultad\CAI\Ejercicio9GuiaCaiCSharp\Ejercicio9Guia\obj\Debug\net6.0\Ejercicio9Guia.csproj.CoreCompileInputs.cache
+D:\Facultad\CAI\Ejercicio9GuiaCaiCSharp\Ejercicio9Guia\obj\Debug\net6.0\Ejercicio9Guia.dll
+D:\Facultad\CAI\Ejercicio9GuiaCaiCSharp\Ejercicio9Guia\obj\Debug\net6.0\refint\Ejercicio9Guia.dll
+D:\Facultad\CAI\Ejercicio9GuiaCaiCSharp\Ejercicio9Guia\obj\Debug\net6.0\Ejercicio9Guia.pdb
+D:\Facultad\CAI\Ejercicio9GuiaCaiCSharp\Ejercicio9Guia\obj\Debug\net6.0\Ejercicio9Guia.genruntimeconfig.cache
+D:\Facultad\CAI\Ejercicio9GuiaCaiCSharp\Ejercicio9Guia\obj\Debug\net6.0\ref\Ejercicio9Guia.dll
