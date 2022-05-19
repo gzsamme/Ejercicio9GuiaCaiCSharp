@@ -43,7 +43,7 @@ namespace Ejercicio9Guia
                 string cadena = Console.ReadLine();
                 if (cadena != "fin")
                 {
-                    linea += cadena + Environment.NewLine;                    
+                    linea += cadena + '\n';                    
                     continue;
                 }
                 else if (cadena == "fin")
@@ -97,12 +97,13 @@ namespace Ejercicio9Guia
                 else if (opcion == 3)
                 {
                     using StreamWriter writer = File.CreateText("Diccionario.txt");
-                    writer.WriteLine(DiccLegajoYNombre.ToString());
+                    writer.WriteLine(DiccLegajoYNombre.Values);
                     continue;
                 }
                 else if (opcion == 4)
                 {
                     StreamReader reader = new StreamReader("Diccionario.txt");
+                    
                     continue;
                 }                
                 else
